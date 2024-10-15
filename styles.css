@@ -3,7 +3,7 @@ body {
     font-family: Helvetica, Arial, sans-serif; /* Sets the font for the body */
     margin: 0; /* Resets margin */
     padding: 0; /* Resets padding */
-    background-color: #b5b5b5; /* Light grey background */
+    background-color: white; /* Light grey background */
     color: #FF6600; /* Orange text color */
 }
 
